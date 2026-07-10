@@ -1,4 +1,4 @@
-# More conveniently placed
+# More conveniently placed here
 
 ```sh
 #!/bin/bash        
