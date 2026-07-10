@@ -1,5 +1,7 @@
+More conveniently placed
+
 ```sh
-#!/bin/bash
+#!/bin/bash        
 
 # Define the source directory
 SOURCE_DIR=~/desktop
